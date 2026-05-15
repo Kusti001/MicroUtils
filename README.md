@@ -9,7 +9,7 @@ Short scripts and small CLI tools I built for myself for fun and learning.
 ### 🌳 treeprinter
 A CLI tool that prints a directory tree structure in a clean and readable format (similar to the Unix `tree` command), with support for icons and optional filtering.
 
-➡️ [treeprint](./treeprint)
+➡️ [treeprinter](./treeprinter)
 
 ---
 

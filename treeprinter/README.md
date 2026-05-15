@@ -1,8 +1,8 @@
-# TreePrint 🌳
+# TreePrint
 
 A simple CLI tool that prints a directory tree structure.
 
-## 🧹 Clean mode
+## Clean mode
 
 Removes common junk files like:
 
@@ -15,16 +15,16 @@ Removes common junk files like:
 Enable with:
 `--clean` flag
 
-## 🚀 Usage
+## Usage
 
 Run from terminal:
 
 ```bash
-python3 tree.py
+python3 path/treeprinter.py
 ```
 
 ```bash
-python3 tree.py --clean
+python3 path/treeprinter.py --clean
 ```
 
 ## Ideas for improvement
